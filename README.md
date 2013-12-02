@@ -1,4 +1,5 @@
 xmppios
 =======
 
-xmpp ios xmppframework
+Beta版：实现客户端与服务器端的连接，用户验证，获取在线好友列表。
+［未完待续...］
